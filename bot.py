@@ -6,7 +6,7 @@ import threading, json, random, string, os
 # ============ सेटिंग ============
 BOT_TOKEN = "8521728775:AAE7nFY__kmJmSZLVzASDmEq1Hc4f3Zn-dg"  # यहाँ अपना Bot Token डालो
 CHANNEL_USERNAME = "Digitalindia8"        # यहाँ अपना चैनल username डालो (बिना @)
-BASE_URL = "https://yourapp.onrender.com" # बाद में Render का URL यहाँ डालना
+BASE_URL = "https://link-generator-bot-1lxv.onrender.com" # बाद में Render का URL यहाँ डालना
 DATA_FILE = "data.json"
 
 app = Flask(__name__)
