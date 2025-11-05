@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 from flask import Flask, redirect, jsonify
 import threading, json, random, string, os
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8521728775:AAE7nFY__kmJmSZLVzASDmEq1Hc4f3Zn-dg"
 CHANNEL_ID = -1007278872449
 CHANNEL_LINK = "https://t.me/Digitalindia8"
 BASE_URL = "https://your-app-name.onrender.com"  # बाद में Render से बदलना
